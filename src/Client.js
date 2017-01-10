@@ -1,14 +1,14 @@
 
 /*jshint esversion: 6 */
 function getData() {
-  return fetch('/api/getty/records', {
+  return fetch('https://lensofchina.herokuapp.com/api/getty/records', {
     accept: 'application/json',
   }).then(checkStatus)
     .then(parseJSON);
 }
 
 function search(query) {
-  return fetch(`/api/getty/search?q=${query}`, {
+  return fetch(`https://lensofchina.herokuapp.com/api/getty/search?q=${query}`, {
     accept: 'application/json',
   }).then(checkStatus)
     .then(parseJSON);
