@@ -1,0 +1,65 @@
+
+#content {
+  margin-bottom: 4em;
+}
+
+.ui.dividing.header {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+i.icon {
+  margin: 0;
+}
+
+#map {
+  height: 400px;
+
+}
+
+#map-pile {
+  margin-bottom: 56px;
+}
+
+/*.overlay {
+  float: left;
+  margin: 0em 3em 1em 0em;
+}*/
+.overlay #map-pile {
+  position: relative;
+  left: 0;
+  transition: left 0.5s ease;
+}
+
+.overlay.fixed {
+  z-ind;
+}
+
+.overlay.fixed #map-pile {
+  height: 400px;
+  width: 320px;
+  left: 720px;
+
+}
+
+.overlay.fixed #map {
+    height: 370px;
+}
+
+#museum-title {
+  /*margin-top: 4em;*/
+  /*border-radius: 0;*/
+  /*border: none;*/
+  /*box-shadow: none;*/
+  transition:
+    box-shadow 0.5s ease,
+    padding 0.5s ease
+  ;
+}
+
+#museum-title.ui.inverted.segment.fixed {
+  /*background-color: #FFFFFF;*/
+  /*border: 1px solid #DDD;*/
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+  right: 0px;
+}

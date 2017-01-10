@@ -1,0 +1,362 @@
+[
+    {
+      "id": "38",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228593",
+        "primary-title": "A Chinese Joss, Chinese City, Shanghai",
+        "culture": "English",
+        "department": "Photographs",
+        "dimensions": "16 &times; 20.5 cm (6 5/16 &times; 8 1/16 in.)",
+        "date": "1870 - 1880",
+        "maker-name": "Attributed to William Saunders, photographer (English, 1832 - 1892)",
+        "object-number": "84.XO.1356.8",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208298/attributed-to-william-saunders-a-chinese-joss-chinese-city-shanghai-english-1870-1880/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859301.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "39",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228594",
+        "primary-title": "Astor House &amp; Oriental Bank, Shanghai, Bund",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "21 x 27.5 cm (8 1/4 x 10 13/16 in.)",
+        "date": "1870 - 1880",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.9",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208299/unknown-maker-astor-house-oriental-bank-shanghai-bund-1870-1880/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859401.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "40",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228595",
+        "primary-title": "A tea-house in Chinese City, Shanghai",
+        "culture": "English",
+        "department": "Photographs",
+        "dimensions": "20.5 &times; 15.5 cm (8 1/16 &times; 6 1/8 in.)",
+        "date": "1870 - 1880",
+        "maker-name": "Attributed to William Saunders (English, 1832 - 1892)",
+        "object-number": "84.XO.1356.10",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208300/attributed-to-william-saunders-a-tea-house-in-chinese-city-shanghai-english-1870-1880/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859501.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "41",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228604",
+        "primary-title": "Bridge, Shanghai, opposite Astor House",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "20.3 x 27 cm (8 x 10 5/8 in.)",
+        "date": "about 1870",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.19",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208309/unknown-maker-bridge-shanghai-opposite-astor-house-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22860401.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "42",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/208054",
+        "primary-title": "[Building]",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "19.9 &times; 27.5 cm (7 13/16 &times; 10 13/16 in.)",
+        "date": "1890",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XA.941.5.8",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/189839/unknown-maker-building-1890/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/20805401.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "43",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228599",
+        "primary-title": "Creek of Chinese City, Shanghai",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "20.6 x 27 cm (8 1/8 x 10 5/8 in.)",
+        "date": "about 1870",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.14",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208304/unknown-maker-creek-of-chinese-city-shanghai-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859901.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "44",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228596",
+        "primary-title": "Facing the Bund, Shanghai",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "20.6 x 27.3 cm (8 1/8 x 10 3/4 in.)",
+        "date": "1870 - 1880",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.11",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208301/unknown-maker-facing-the-bund-shanghai-1870-1880/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859601.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "45",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228602",
+        "primary-title": "General view of Bund, Shanghai",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "20.8 x 26.5 cm (8 3/16 x 10 7/16 in.)",
+        "date": "about 1870",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.17",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208307/unknown-maker-general-view-of-bund-shanghai-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22860201.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "46",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228600",
+        "primary-title": "Natives, winter costume, Shanghai",
+        "culture": "English",
+        "department": "Photographs",
+        "dimensions": "15.6 &times; 20.6 cm (6 1/8 &times; 8 1/8 in.)",
+        "date": "1870 - 1875",
+        "maker-name": "Attributed to William Saunders, photographer (English, 1832 - 1892)",
+        "object-number": "84.XO.1356.15",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208305/attributed-to-william-saunders-natives-winter-costume-shanghai-english-1870-1875/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22860001.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "47",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/188584",
+        "primary-title": "Pagoda, Shanghai",
+        "culture": "Scottish",
+        "department": "Photographs",
+        "dimensions": "19.7 x 27.3 cm (7 3/4 x 10 3/4 in.)",
+        "date": "1890 - 1900",
+        "maker-name": "Attributed to John Thomson, photographer (Scottish, 1837 - 1921)",
+        "object-number": "84.XA.875.3.38",
+        "place": "Place Created: Shanghai, Kiangsu, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/171466/attributed-to-john-thomson-pagoda-shanghai-scottish-1890-1900/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/18858401.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "48",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/188582",
+        "primary-title": "Passenger Wheelbarrow, Shanghai",
+        "culture": "Scottish",
+        "department": "Photographs",
+        "dimensions": "19.7 x 27.3 cm (7 3/4 x 10 3/4 in.)",
+        "date": "1870s - 1890s",
+        "maker-name": "Attributed to John Thomson, photographer (Scottish, 1837 - 1921)",
+        "object-number": "84.XA.875.3.36",
+        "place": "Place Created: Shanghai, Kiangsu, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/171464/attributed-to-john-thomson-passenger-wheelbarrow-shanghai-scottish-1870s-1890s/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/18858201.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "49",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/208055",
+        "primary-title": "[Pavilion in the Public Garden, Shanghai]",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "19.7 &times; 27.6 cm (7 3/4 &times; 10 7/8 in.)",
+        "date": "after 1868",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XA.941.5.9",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/189840/unknown-maker-pavilion-in-the-public-garden-shanghai-after-1868/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/20805501.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "50",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/188579",
+        "primary-title": "Public Gardens, Shanghai",
+        "culture": "Scottish",
+        "department": "Photographs",
+        "dimensions": "19.7 x 27.3 cm (7 3/4 x 10 3/4 in.)",
+        "date": "about 1870",
+        "maker-name": "Attributed to John Thomson, photographer (Scottish, 1837 - 1921)",
+        "object-number": "84.XA.875.3.33",
+        "place": "Place Created: Shanghai, Kiangsu, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/171461/attributed-to-john-thomson-public-gardens-shanghai-scottish-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/18857901.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "51",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/188580",
+        "primary-title": "Public Gardens, Shanghai",
+        "culture": "Scottish",
+        "department": "Photographs",
+        "dimensions": "17.8 x 22.7 cm (7 x 8 15/16 in.)",
+        "date": "1870s - 1890s",
+        "maker-name": "Attributed to John Thomson, photographer (Scottish, 1837 - 1921)",
+        "object-number": "84.XA.875.3.34",
+        "place": "Place Created: Shanghai, Kiangsu, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/171462/attributed-to-john-thomson-public-gardens-shanghai-scottish-1870s-1890s/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/18858001.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "52",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/208053",
+        "primary-title": "[Russell &amp; Co. Building, Shanghai]",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "19.8 &times; 27.6 cm (7 13/16 &times; 10 7/8 in.)",
+        "date": "about 1886",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XA.941.5.7",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/189838/unknown-maker-russell-co-building-shanghai-about-1886/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/20805301.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "53",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/188581",
+        "primary-title": "Temple Gate, Shanghai",
+        "culture": "Scottish",
+        "department": "Photographs",
+        "dimensions": "22 x 18 cm (8 11/16 x 7 1/16 in.)",
+        "date": "1870s - 1890s",
+        "maker-name": "Attributed to John Thomson, photographer (Scottish, 1837 - 1921)",
+        "object-number": "84.XA.875.3.35",
+        "place": "Place Created: Shanghai, Kiangsu, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/171463/attributed-to-john-thomson-temple-gate-shanghai-scottish-1870s-1890s/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/18858101.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "54",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/228598",
+        "primary-title": "The Cathedral, Shanghai",
+        "culture": null,
+        "department": "Photographs",
+        "dimensions": "20.6 x 27 cm (8 1/8 x 10 5/8 in.)",
+        "date": "about 1870",
+        "maker-name": "Unknown, photographer",
+        "object-number": "84.XO.1356.13",
+        "place": "Place Created: Shanghai, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/208303/unknown-maker-the-cathedral-shanghai-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22859801.jpg",
+        "medium": "Albumen silver print"
+      }
+    },
+    {
+      "id": "55",
+      "type": "getty-objects",
+      "attributes": {
+        "record-id": "info:getty/object/222491",
+        "primary-title": "[The Club, Shanghai, China]",
+        "culture": "Chinese",
+        "department": "Photographs",
+        "dimensions": "20.6 x 28.6 cm (8 1/8 x 11 1/4 in.)",
+        "date": "about 1870",
+        "maker-name": "Tung-Hing, photographer (Chinese, active Foo Chow, China 1861 - 1868)",
+        "object-number": "84.XA.1240.43",
+        "place": "Place Created: Shanghai, Far East, China",
+        "record-link": "http://www.getty.edu/art/collection/objects/202650/tung-hing-the-club-shanghai-china-chinese-about-1870/",
+        "source": "J. Paul Getty Museum",
+        "record-type": "Photographs",
+        "image-thumb-uri": "http://www.getty.edu/museum/media/images/web/thumbnail/22249101.jpg",
+        "medium": "Albumen silver print"
+      }
+    }
+  ]
